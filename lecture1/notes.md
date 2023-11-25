@@ -9,4 +9,6 @@ This intrugues me because it is the exact reason why I decided to study this cou
 
 To quote Feynman, "What I cannot build, I do not understand."
 
-
+Student Calibration Questions
+---
+A quine is a program that prints itself out.
