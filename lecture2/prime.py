@@ -1,4 +1,5 @@
 from math import isqrt
+import numpy as np
 
 def is_prime(n: int) -> bool:
     if n <= 3:
@@ -11,7 +12,7 @@ def is_prime(n: int) -> bool:
             return False
     return True
 
-for i in range(101):
+for i in range(100):
   if is_prime(i):
     print(str(i)+" IS a prime")
   else:
